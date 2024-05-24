@@ -7,3 +7,6 @@ int main() {
   return 0;
 }
 ```
+- [x] Finish step 1
+- [ ] Finish assignment
+- [ ] Finish class
